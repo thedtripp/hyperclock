@@ -1,4 +1,4 @@
-# hyperclock
+# Hyperclock
 
 ### A digital clock composed of 72 analogue clocks which cycles between displaying current time and various animations
 ### Written in JavaScript, this interactive and portable program can be displayed in any web browser
